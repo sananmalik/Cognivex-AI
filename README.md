@@ -1,42 +1,36 @@
-# StudyFlow AI
+# Cognivex AI
 
-An autonomous AI-powered academic assistant that helps students analyze assignments, generate study plans, extract tasks, and manage academic workflows intelligently.
+### Autonomous Academic Workflow Intelligence Platform
 
 ---
 
 # Overview
 
-StudyFlow AI is designed to move beyond traditional chatbot interactions by introducing an agent-based workflow system for students. The platform analyzes uploaded assignments, extracts actionable tasks, prioritizes work, and generates structured study plans automatically.
+Cognivex AI is an agent-based academic productivity platform designed to help students manage assignments, organize study workflows, and automate academic planning using artificial intelligence.
 
-The system combines:
+The system analyzes uploaded academic material, extracts actionable tasks, prioritizes workloads, and generates structured study plans through autonomous AI workflows.
 
-* AI reasoning
-* task planning
-* workflow automation
-* backend APIs
-* database integration
-
-to create a practical academic productivity assistant.
+Unlike traditional chatbots, Cognivex AI focuses on intelligent task orchestration, workflow automation, and multi-step academic assistance.
 
 ---
 
 # Problem Statement
 
-Students often struggle with:
+Students frequently face challenges such as:
 
-* understanding lengthy assignments
-* breaking work into manageable tasks
-* planning deadlines effectively
+* understanding complex assignments
 * organizing study schedules
-* tracking academic progress
+* tracking deadlines
+* prioritizing academic tasks
+* managing workload efficiently
 
-StudyFlow AI solves this by autonomously analyzing academic material and generating structured workflows.
+Cognivex AI addresses these challenges by providing an intelligent workflow-driven assistant capable of planning and managing academic activities autonomously.
 
 ---
 
-# Features
+# Core Features
 
-## Assignment Upload
+## Intelligent Assignment Analysis
 
 Users can upload:
 
@@ -44,52 +38,59 @@ Users can upload:
 * images
 * plain text assignments
 
----
+The AI system extracts:
 
-## AI-Powered Analysis
-
-The system uses Gemini AI to:
-
-* analyze assignment content
-* identify important topics
-* extract tasks and requirements
-* detect deadlines and priorities
+* important requirements
+* deadlines
+* topics
+* actionable tasks
 
 ---
 
 ## Autonomous Workflow Planning
 
-The AI agent:
+The platform automatically:
 
-* breaks assignments into subtasks
-* generates study plans
-* estimates workload
-* prioritizes tasks intelligently
+* divides assignments into subtasks
+* generates study roadmaps
+* prioritizes tasks
+* estimates workload and completion time
 
 ---
 
-## Task Management
+## AI-Powered Academic Assistance
 
-Students can:
+Cognivex AI uses Gemini AI models to:
 
-* track progress
-* manage completed tasks
+* analyze educational content
+* summarize material
+* assist in task planning
+* support intelligent reasoning workflows
+
+---
+
+## Task Management Dashboard
+
+Users can:
+
+* track assignment progress
+* manage task completion
 * monitor priorities
-* view estimated completion timelines
+* visualize academic workflow status
 
 ---
 
-# Architecture
+# System Architecture
 
 ```text
-Frontend (React + Tailwind)
-            ↓
+Frontend (React + Tailwind CSS)
+                ↓
 ASP.NET Core Web API
-            ↓
+                ↓
 Agent Workflow Engine
-            ↓
-Gemini AI Integration
-            ↓
+                ↓
+Gemini AI Integration Layer
+                ↓
 SQL Server Database
 ```
 
@@ -126,7 +127,7 @@ SQL Server Database
 # Project Structure
 
 ```text
-StudyFlowAI/
+CognivexAI/
 │
 ├── Controllers/
 ├── Services/
@@ -135,42 +136,42 @@ StudyFlowAI/
 ├── Models/
 ├── DTOs/
 ├── Data/
-├── Helpers/
 ├── Interfaces/
+├── Helpers/
 └── Program.cs
 ```
 
 ---
 
-# Workflow
+# Workflow Pipeline
 
 ```text
-User Uploads Assignment
-            ↓
+Assignment Upload
+        ↓
 Document Analysis Agent
-            ↓
-Task Extraction
-            ↓
-Planning Agent
-            ↓
-Study Plan Generation
-            ↓
+        ↓
+Task Extraction Engine
+        ↓
+Planning & Prioritization Agent
+        ↓
+Study Workflow Generation
+        ↓
 Database Storage
-            ↓
-Dashboard Response
+        ↓
+Frontend Dashboard Response
 ```
 
 ---
 
-# AI Agent Responsibilities
+# AI Agent Modules
 
 ## Document Analysis Agent
 
 Responsible for:
 
-* reading uploaded content
-* extracting academic requirements
-* identifying important information
+* extracting assignment content
+* identifying academic requirements
+* analyzing uploaded material
 
 ---
 
@@ -179,9 +180,9 @@ Responsible for:
 Responsible for:
 
 * generating study schedules
-* creating subtasks
-* prioritizing work
-* estimating study time
+* estimating effort
+* prioritizing subtasks
+* workflow orchestration
 
 ---
 
@@ -221,7 +222,7 @@ POST /api/assignments/upload
 
 ---
 
-## Get Assignments
+## Retrieve Assignments
 
 ```http
 GET /api/assignments
@@ -229,7 +230,7 @@ GET /api/assignments
 
 ---
 
-## Get Tasks
+## Retrieve Tasks
 
 ```http
 GET /api/tasks
@@ -245,47 +246,36 @@ PUT /api/tasks/{id}
 
 ---
 
-# Future Improvements
+# Future Enhancements
 
-* Authentication system
-* Calendar integration
-* Reminder notifications
 * Multi-agent collaboration
-* Voice assistant support
+* Calendar synchronization
+* Smart reminder system
 * AI-generated summaries
-* Mobile application
-* Real-time progress tracking
+* Real-time notifications
+* Mobile application support
+* Voice-based interaction
+* Learning analytics dashboard
 
 ---
 
-# Deployment Plan
+# Objective
 
-The application is deployed using:
-
-* Vultr VPS
-* Ubuntu Server
-* ASP.NET Core Hosting
-* Nginx Reverse Proxy
-
----
-
-# Goals
-
-The main objective of this project is to demonstrate:
+The primary goal of Cognivex AI is to demonstrate:
 
 * autonomous AI workflows
+* intelligent academic orchestration
 * practical AI integration
-* intelligent task planning
-* real-world productivity automation
+* workflow-driven productivity systems
 
 ---
 
 # Team Vision
 
-StudyFlow AI aims to transform how students manage academic workloads by combining artificial intelligence with structured workflow automation.
+Cognivex AI aims to redefine academic productivity through intelligent workflow automation and agentic AI systems capable of assisting students in real-world educational environments.
 
 ---
 
 # License
 
-This project is developed for educational and hackathon purposes.
+Developed for educational and hackathon purposes.
