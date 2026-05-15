@@ -1,4 +1,4 @@
-# # StudyFlow AI
+# StudyFlow AI
 
 An autonomous AI-powered academic assistant that helps students analyze assignments, generate study plans, extract tasks, and manage academic workflows intelligently.
 
