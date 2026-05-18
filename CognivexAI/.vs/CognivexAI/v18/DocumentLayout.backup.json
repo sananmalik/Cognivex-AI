@@ -1,0 +1,240 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\Cognivex-AI\\CognivexAI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{14442204-46A9-BBBE-6A72-618E393473B1}|CognivexAI.csproj|c:\\users\\admin\\source\\repos\\cognivex-ai\\cognivexai\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{14442204-46A9-BBBE-6A72-618E393473B1}|CognivexAI.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14442204-46A9-BBBE-6A72-618E393473B1}|CognivexAI.csproj|c:\\users\\admin\\source\\repos\\cognivex-ai\\cognivexai\\services\\geminiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14442204-46A9-BBBE-6A72-618E393473B1}|CognivexAI.csproj|solutionrelative:services\\geminiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14442204-46A9-BBBE-6A72-618E393473B1}|CognivexAI.csproj|c:\\users\\admin\\source\\repos\\cognivex-ai\\cognivexai\\agents\\assignmentagent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14442204-46A9-BBBE-6A72-618E393473B1}|CognivexAI.csproj|solutionrelative:agents\\assignmentagent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14442204-46A9-BBBE-6A72-618E393473B1}|CognivexAI.csproj|c:\\users\\admin\\source\\repos\\cognivex-ai\\cognivexai\\interfaces\\igeminiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14442204-46A9-BBBE-6A72-618E393473B1}|CognivexAI.csproj|solutionrelative:interfaces\\igeminiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14442204-46A9-BBBE-6A72-618E393473B1}|CognivexAI.csproj|c:\\users\\admin\\source\\repos\\cognivex-ai\\cognivexai\\.gitignore.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{14442204-46A9-BBBE-6A72-618E393473B1}|CognivexAI.csproj|solutionrelative:.gitignore.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14442204-46A9-BBBE-6A72-618E393473B1}|CognivexAI.csproj|c:\\users\\admin\\source\\repos\\cognivex-ai\\cognivexai\\controllers\\aicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14442204-46A9-BBBE-6A72-618E393473B1}|CognivexAI.csproj|solutionrelative:controllers\\aicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14442204-46A9-BBBE-6A72-618E393473B1}|CognivexAI.csproj|c:\\users\\admin\\source\\repos\\cognivex-ai\\cognivexai\\controllers\\assignmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14442204-46A9-BBBE-6A72-618E393473B1}|CognivexAI.csproj|solutionrelative:controllers\\assignmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14442204-46A9-BBBE-6A72-618E393473B1}|CognivexAI.csproj|c:\\users\\admin\\source\\repos\\cognivex-ai\\cognivexai\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14442204-46A9-BBBE-6A72-618E393473B1}|CognivexAI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14442204-46A9-BBBE-6A72-618E393473B1}|CognivexAI.csproj|c:\\users\\admin\\source\\repos\\cognivex-ai\\cognivexai\\dtos\\aitaskdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14442204-46A9-BBBE-6A72-618E393473B1}|CognivexAI.csproj|solutionrelative:dtos\\aitaskdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14442204-46A9-BBBE-6A72-618E393473B1}|CognivexAI.csproj|c:\\users\\admin\\source\\repos\\cognivex-ai\\cognivexai\\models\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14442204-46A9-BBBE-6A72-618E393473B1}|CognivexAI.csproj|solutionrelative:models\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14442204-46A9-BBBE-6A72-618E393473B1}|CognivexAI.csproj|c:\\users\\admin\\source\\repos\\cognivex-ai\\cognivexai\\dtos\\createassignmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14442204-46A9-BBBE-6A72-618E393473B1}|CognivexAI.csproj|solutionrelative:dtos\\createassignmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14442204-46A9-BBBE-6A72-618E393473B1}|CognivexAI.csproj|c:\\users\\admin\\source\\repos\\cognivex-ai\\cognivexai\\models\\assignment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14442204-46A9-BBBE-6A72-618E393473B1}|CognivexAI.csproj|solutionrelative:models\\assignment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14442204-46A9-BBBE-6A72-618E393473B1}|CognivexAI.csproj|c:\\users\\admin\\source\\repos\\cognivex-ai\\cognivexai\\cognivexai.csproj.backup.tmp||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{14442204-46A9-BBBE-6A72-618E393473B1}|CognivexAI.csproj|solutionrelative:cognivexai.csproj.backup.tmp||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AiController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Cognivex-AI\\CognivexAI\\Controllers\\AiController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AiController.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Cognivex-AI\\CognivexAI\\Controllers\\AiController.cs",
+              "RelativeToolTip": "Controllers\\AiController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T12:10:33.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IGeminiService.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Cognivex-AI\\CognivexAI\\Interfaces\\IGeminiService.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IGeminiService.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Cognivex-AI\\CognivexAI\\Interfaces\\IGeminiService.cs",
+              "RelativeToolTip": "Interfaces\\IGeminiService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T12:09:06.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GeminiService.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Cognivex-AI\\CognivexAI\\Services\\GeminiService.cs",
+              "RelativeDocumentMoniker": "Services\\GeminiService.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Cognivex-AI\\CognivexAI\\Services\\GeminiService.cs",
+              "RelativeToolTip": "Services\\GeminiService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAEIAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T12:08:35.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Cognivex-AI\\CognivexAI\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Cognivex-AI\\CognivexAI\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-15T12:07:21.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AssignmentAgent.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Cognivex-AI\\CognivexAI\\Agents\\AssignmentAgent.cs",
+              "RelativeDocumentMoniker": "Agents\\AssignmentAgent.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Cognivex-AI\\CognivexAI\\Agents\\AssignmentAgent.cs",
+              "RelativeToolTip": "Agents\\AssignmentAgent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T13:06:20.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": ".gitignore.txt",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Cognivex-AI\\CognivexAI\\.gitignore.txt",
+              "RelativeDocumentMoniker": ".gitignore.txt",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Cognivex-AI\\CognivexAI\\.gitignore.txt",
+              "RelativeToolTip": ".gitignore.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-05-18T14:51:43.978Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AiTaskDto.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Cognivex-AI\\CognivexAI\\DTOs\\AiTaskDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\AiTaskDto.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Cognivex-AI\\CognivexAI\\DTOs\\AiTaskDto.cs",
+              "RelativeToolTip": "DTOs\\AiTaskDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T13:05:51.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AssignmentsController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Cognivex-AI\\CognivexAI\\Controllers\\AssignmentsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AssignmentsController.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Cognivex-AI\\CognivexAI\\Controllers\\AssignmentsController.cs",
+              "RelativeToolTip": "Controllers\\AssignmentsController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAowA4AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T11:51:01.214Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TaskItem.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Cognivex-AI\\CognivexAI\\Models\\TaskItem.cs",
+              "RelativeDocumentMoniker": "Models\\TaskItem.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Cognivex-AI\\CognivexAI\\Models\\TaskItem.cs",
+              "RelativeToolTip": "Models\\TaskItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAIwBIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T11:54:30.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Cognivex-AI\\CognivexAI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Cognivex-AI\\CognivexAI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABwAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T11:43:55.605Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Assignment.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Cognivex-AI\\CognivexAI\\Models\\Assignment.cs",
+              "RelativeDocumentMoniker": "Models\\Assignment.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Cognivex-AI\\CognivexAI\\Models\\Assignment.cs",
+              "RelativeToolTip": "Models\\Assignment.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAA1wBEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T11:34:49.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CognivexAI.csproj.Backup.tmp",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Cognivex-AI\\CognivexAI\\CognivexAI.csproj.Backup.tmp",
+              "RelativeDocumentMoniker": "CognivexAI.csproj.Backup.tmp",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Cognivex-AI\\CognivexAI\\CognivexAI.csproj.Backup.tmp",
+              "RelativeToolTip": "CognivexAI.csproj.Backup.tmp",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-05-15T11:53:29.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CreateAssignmentDto.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Cognivex-AI\\CognivexAI\\DTOs\\CreateAssignmentDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\CreateAssignmentDto.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Cognivex-AI\\CognivexAI\\DTOs\\CreateAssignmentDto.cs",
+              "RelativeToolTip": "DTOs\\CreateAssignmentDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T11:50:41.53Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
